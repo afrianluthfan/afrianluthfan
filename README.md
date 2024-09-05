@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](github-readme-stats-pearl-iota-42.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-pearl-iota-42.vercel.app/api/top-langs/?username=afrianluthfan)](https://github.com/anuraghazra/github-readme-stats)
